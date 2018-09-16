@@ -7,13 +7,13 @@ Language            | Filename  | License         | Derived from  | Additional r
 Old English         | `ang.xml` | CC BY-NC-SA 3.0 | ISWOC         |
 Old Church Slavonic | `chu.xml` | CC BY-NC-SA 3.0 | TOROT, PROIEL |
 Old French          | `fro.xml` | CC BY-NC-SA 3.0 | ISWOC         |
-Gothic              | `got.xml` | CC BY-NC-SA 3.0 | PROIEL        |
-Ancient Greek       | `grc.xml` | CC BY-NC-SA 3.0 | PROIEL        |
-Latin               | `lat.xml` | CC BY-NC-SA 3.0 | PROIEL        | Glosses from the Varangian Rus Project
+Gothic              | `got.xml` | CC BY-NC-SA 4.0 | PROIEL        |
+Ancient Greek       | `grc.xml` | CC BY-NC-SA 4.0 | PROIEL        |
+Latin               | `lat.xml` | CC BY-NC-SA 4.0 | PROIEL        | Glosses from the Varangian Rus Project
 Old Russian         | `orv.xml` | CC BY-NC-SA 3.0 | TOROT         |
 Portuguese          | `por.xml` | CC BY-NC-SA 3.0 | ISWOC         |
 Spanish             | `spa.xml` | CC BY-NC-SA 3.0 | ISWOC         |
-Classical Armenian  | `xcl.xml` | CC BY-NC-SA 3.0 | PROIEL        |
+Classical Armenian  | `xcl.xml` | CC BY-NC-SA 4.0 | PROIEL        |
 
 The dictionaries inherit their license from the treebanks. Copyright is held by the treebank editors and [Marius L. Jøhndal](http://github.com/mlj), who maintains the collection.
 
