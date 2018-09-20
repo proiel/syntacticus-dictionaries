@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-16T15:14:20+01:00" schema-version="3.0">
+<proiel export-time="2018-09-20T17:19:13+01:00" schema-version="3.0">
   <dictionary language="xcl">
     <sources>
       <source idref="armenian-nt" license="CC BY-NC-SA 4.0"/>
@@ -71,6 +71,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="aganim#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="3siia----i">
             <slot2 form="aganēr" n="1"/>
@@ -91,6 +94,9 @@
         <distribution>
           <source idref="armenian-nt" n="6"/>
         </distribution>
+        <homographs>
+          <homograph lemma="aganim#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---n-----i">
             <slot2 form="aganel" n="1"/>
@@ -943,6 +949,9 @@
         <distribution>
           <source idref="armenian-nt" n="4"/>
         </distribution>
+        <homographs>
+          <homograph lemma="and" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----n--i">
             <slot2 form="ándkʻ" n="1"/>
@@ -959,6 +968,9 @@
         <distribution>
           <source idref="armenian-nt" n="20"/>
         </distribution>
+        <homographs>
+          <homograph lemma="and#3" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="and" n="15"/>
@@ -2698,6 +2710,9 @@
         <distribution>
           <source idref="armenian-nt" n="4"/>
         </distribution>
+        <homographs>
+          <homograph lemma="artakʻoy" part-of-speech="R-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="artakʻoy" n="4"/>
@@ -2708,6 +2723,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="artakʻoy#2" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="artakʻoy" n="1"/>
@@ -3208,7 +3226,9 @@
           <source idref="armenian-nt" n="2"/>
         </distribution>
         <homographs>
+          <homograph lemma="ar̄aǰi" part-of-speech="R-"/>
           <homograph lemma="ar̄aǰi#2" part-of-speech="R-"/>
+          <homograph lemma="ar̄aǰi" part-of-speech="Df"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -3221,7 +3241,9 @@
           <source idref="armenian-nt" n="3"/>
         </distribution>
         <homographs>
+          <homograph lemma="ar̄aǰi" part-of-speech="R-"/>
           <homograph lemma="ar̄aǰi#2" part-of-speech="Df"/>
+          <homograph lemma="ar̄aǰi" part-of-speech="Df"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -3235,6 +3257,8 @@
         </distribution>
         <homographs>
           <homograph lemma="ar̄aǰi" part-of-speech="R-"/>
+          <homograph lemma="ar̄aǰi#2" part-of-speech="Df"/>
+          <homograph lemma="ar̄aǰi#2" part-of-speech="R-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -3247,6 +3271,8 @@
           <source idref="armenian-nt" n="40"/>
         </distribution>
         <homographs>
+          <homograph lemma="ar̄aǰi#2" part-of-speech="Df"/>
+          <homograph lemma="ar̄aǰi#2" part-of-speech="R-"/>
           <homograph lemma="ar̄aǰi" part-of-speech="Df"/>
         </homographs>
         <paradigm>
@@ -5893,6 +5919,11 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ayl#2" part-of-speech="C-"/>
+          <homograph lemma="ayl" part-of-speech="A-"/>
+          <homograph lemma="ayl" part-of-speech="C-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----n--i">
             <slot2 form="ayłkʻ" n="1"/>
@@ -5903,6 +5934,11 @@
         <distribution>
           <source idref="armenian-nt" n="50"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ayl" part-of-speech="A-"/>
+          <homograph lemma="ayl" part-of-speech="C-"/>
+          <homograph lemma="ayl#1" part-of-speech="A-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="Aył" n="11"/>
@@ -5916,7 +5952,9 @@
           <source idref="armenian-nt" n="31"/>
         </distribution>
         <homographs>
+          <homograph lemma="ayl#2" part-of-speech="C-"/>
           <homograph lemma="ayl" part-of-speech="C-"/>
+          <homograph lemma="ayl#1" part-of-speech="A-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="-p----a--i">
@@ -5958,7 +5996,9 @@
           <source idref="armenian-nt" n="4"/>
         </distribution>
         <homographs>
+          <homograph lemma="ayl#2" part-of-speech="C-"/>
           <homograph lemma="ayl" part-of-speech="A-"/>
+          <homograph lemma="ayl#1" part-of-speech="A-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -6094,6 +6134,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ayr" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----a--i">
             <slot2 form="ayr" n="1"/>
@@ -6104,6 +6147,9 @@
         <distribution>
           <source idref="armenian-nt" n="66"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ayr#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----a--i">
             <slot2 form="ars" n="1"/>
@@ -6188,6 +6234,9 @@
         <distribution>
           <source idref="armenian-nt" n="11"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ays" part-of-speech="Pd"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----b--i">
             <slot2 form="aysocʻ" n="3"/>
@@ -6210,6 +6259,9 @@
         <distribution>
           <source idref="armenian-nt" n="108"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ays#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----a--i">
             <slot2 form="aysosik" n="2"/>
@@ -9466,6 +9518,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="cʻank" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="cʻang" n="1"/>
@@ -9476,6 +9531,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="cʻank#2" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----a--i">
             <slot2 form="cʻanks" n="1"/>
@@ -16050,6 +16108,10 @@
         <distribution>
           <source idref="armenian-nt" n="4"/>
         </distribution>
+        <homographs>
+          <homograph lemma="handerj#2" part-of-speech="R-"/>
+          <homograph lemma="handerj#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="handerj" n="4"/>
@@ -16062,6 +16124,7 @@
         </distribution>
         <homographs>
           <homograph lemma="handerj#2" part-of-speech="R-"/>
+          <homograph lemma="handerj#1" part-of-speech="R-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="-p----a--i">
@@ -16093,6 +16156,7 @@
         </distribution>
         <homographs>
           <homograph lemma="handerj#2" part-of-speech="Nb"/>
+          <homograph lemma="handerj#1" part-of-speech="R-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -17668,6 +17732,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="het" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----b--i">
             <slot2 form="hetē" n="1"/>
@@ -17678,6 +17745,9 @@
         <distribution>
           <source idref="armenian-nt" n="7"/>
         </distribution>
+        <homographs>
+          <homograph lemma="het#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----b--i">
             <slot2 form="hetē" n="7"/>
@@ -17832,6 +17902,9 @@
         <distribution>
           <source idref="armenian-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="hin" part-of-speech="A-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----a--i">
             <slot2 form="hin" n="1"/>
@@ -17848,6 +17921,9 @@
         <distribution>
           <source idref="armenian-nt" n="2"/>
         </distribution>
+        <homographs>
+          <homograph lemma="hin#2" part-of-speech="A-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p----a--i">
             <slot2 form="hins" n="2"/>
@@ -19087,6 +19163,12 @@
         <distribution>
           <source idref="armenian-nt" n="61"/>
         </distribution>
+        <homographs>
+          <homograph lemma="iwr#2" part-of-speech="Pk"/>
+          <homograph lemma="iwr" part-of-speech="Ps"/>
+          <homograph lemma="iwr" part-of-speech="Pk"/>
+          <homograph lemma="iwr#2" part-of-speech="Ps"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="3p----g--i">
             <slot2 form="iwreancʻ" n="11"/>
@@ -19107,6 +19189,9 @@
           <source idref="armenian-nt" n="40"/>
         </distribution>
         <homographs>
+          <homograph lemma="iwr" part-of-speech="Ps"/>
+          <homograph lemma="iwr" part-of-speech="Pk"/>
+          <homograph lemma="iwr#1" part-of-speech="Pk"/>
           <homograph lemma="iwr#2" part-of-speech="Ps"/>
         </homographs>
         <paradigm>
@@ -19130,6 +19215,9 @@
         </distribution>
         <homographs>
           <homograph lemma="iwr#2" part-of-speech="Pk"/>
+          <homograph lemma="iwr" part-of-speech="Ps"/>
+          <homograph lemma="iwr" part-of-speech="Pk"/>
+          <homograph lemma="iwr#1" part-of-speech="Pk"/>
         </homographs>
         <paradigm>
           <slot1 morphology="3p----a--i">
@@ -19166,7 +19254,10 @@
           <source idref="armenian-nt" n="1"/>
         </distribution>
         <homographs>
+          <homograph lemma="iwr#2" part-of-speech="Pk"/>
           <homograph lemma="iwr" part-of-speech="Ps"/>
+          <homograph lemma="iwr#1" part-of-speech="Pk"/>
+          <homograph lemma="iwr#2" part-of-speech="Ps"/>
         </homographs>
         <paradigm>
           <slot1 morphology="3s----g--i">
@@ -19179,7 +19270,10 @@
           <source idref="armenian-nt" n="38"/>
         </distribution>
         <homographs>
+          <homograph lemma="iwr#2" part-of-speech="Pk"/>
           <homograph lemma="iwr" part-of-speech="Pk"/>
+          <homograph lemma="iwr#1" part-of-speech="Pk"/>
+          <homograph lemma="iwr#2" part-of-speech="Ps"/>
         </homographs>
         <paradigm>
           <slot1 morphology="3p----b--i">
@@ -19828,6 +19922,12 @@
         <distribution>
           <source idref="armenian-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="kam#3" part-of-speech="A-"/>
+          <homograph lemma="kam" part-of-speech="V-"/>
+          <homograph lemma="kam#3" part-of-speech="C-"/>
+          <homograph lemma="kam#2" part-of-speech="C-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="2sama----i">
             <slot2 form="kacʻ" n="1"/>
@@ -19855,6 +19955,12 @@
         <distribution>
           <source idref="armenian-nt" n="22"/>
         </distribution>
+        <homographs>
+          <homograph lemma="kam#3" part-of-speech="A-"/>
+          <homograph lemma="kam" part-of-speech="V-"/>
+          <homograph lemma="kam#3" part-of-speech="C-"/>
+          <homograph lemma="kam#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="Kam" n="4"/>
@@ -19867,7 +19973,10 @@
           <source idref="armenian-nt" n="1"/>
         </distribution>
         <homographs>
+          <homograph lemma="kam" part-of-speech="V-"/>
           <homograph lemma="kam#3" part-of-speech="C-"/>
+          <homograph lemma="kam#2" part-of-speech="C-"/>
+          <homograph lemma="kam#1" part-of-speech="V-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="-s----n--i">
@@ -19881,6 +19990,9 @@
         </distribution>
         <homographs>
           <homograph lemma="kam#3" part-of-speech="A-"/>
+          <homograph lemma="kam" part-of-speech="V-"/>
+          <homograph lemma="kam#2" part-of-speech="C-"/>
+          <homograph lemma="kam#1" part-of-speech="V-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -19892,6 +20004,12 @@
         <distribution>
           <source idref="armenian-nt" n="62"/>
         </distribution>
+        <homographs>
+          <homograph lemma="kam#3" part-of-speech="A-"/>
+          <homograph lemma="kam#3" part-of-speech="C-"/>
+          <homograph lemma="kam#2" part-of-speech="C-"/>
+          <homograph lemma="kam#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---n-----i">
             <slot2 form="kal" n="12"/>
@@ -25988,6 +26106,8 @@
         </distribution>
         <homographs>
           <homograph lemma="minčʻew#3" part-of-speech="R-"/>
+          <homograph lemma="minčʻew" part-of-speech="G-"/>
+          <homograph lemma="minčʻew" part-of-speech="R-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -26000,7 +26120,9 @@
           <source idref="armenian-nt" n="1"/>
         </distribution>
         <homographs>
+          <homograph lemma="minčʻew" part-of-speech="G-"/>
           <homograph lemma="minčʻew#3" part-of-speech="G-"/>
+          <homograph lemma="minčʻew" part-of-speech="R-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -26013,6 +26135,8 @@
           <source idref="armenian-nt" n="14"/>
         </distribution>
         <homographs>
+          <homograph lemma="minčʻew#3" part-of-speech="R-"/>
+          <homograph lemma="minčʻew#3" part-of-speech="G-"/>
           <homograph lemma="minčʻew" part-of-speech="R-"/>
         </homographs>
         <paradigm>
@@ -26026,7 +26150,9 @@
           <source idref="armenian-nt" n="2"/>
         </distribution>
         <homographs>
+          <homograph lemma="minčʻew#3" part-of-speech="R-"/>
           <homograph lemma="minčʻew" part-of-speech="G-"/>
+          <homograph lemma="minčʻew#3" part-of-speech="G-"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -31102,6 +31228,9 @@
         <distribution>
           <source idref="armenian-nt" n="2"/>
         </distribution>
+        <homographs>
+          <homograph lemma="pʻoxanak" part-of-speech="R-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="pʻoxanak" n="2"/>
@@ -31112,6 +31241,9 @@
         <distribution>
           <source idref="armenian-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="pʻoxanak#2" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="pʻoxanak" n="1"/>
@@ -35456,6 +35588,9 @@
         <distribution>
           <source idref="armenian-nt" n="11"/>
         </distribution>
+        <homographs>
+          <homograph lemma="vay" part-of-speech="I-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="Váy" n="7"/>
@@ -35467,6 +35602,9 @@
         <distribution>
           <source idref="armenian-nt" n="5"/>
         </distribution>
+        <homographs>
+          <homograph lemma="vay#2" part-of-speech="I-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="Váy" n="2"/>
@@ -38818,6 +38956,9 @@
         <distribution>
           <source idref="armenian-nt" n="67"/>
         </distribution>
+        <homographs>
+          <homograph lemma="z" part-of-speech="R-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="z" n="67"/>
@@ -38828,6 +38969,9 @@
         <distribution>
           <source idref="armenian-nt" n="1032"/>
         </distribution>
+        <homographs>
+          <homograph lemma="z#2" part-of-speech="R-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="Z" n="4"/>
@@ -39616,6 +39760,13 @@
         <distribution>
           <source idref="armenian-nt" n="13"/>
         </distribution>
+        <homographs>
+          <homograph lemma="zi#2" part-of-speech="G-"/>
+          <homograph lemma="zi" part-of-speech="C-"/>
+          <homograph lemma="zi" part-of-speech="G-"/>
+          <homograph lemma="zi#2" part-of-speech="C-"/>
+          <homograph lemma="zi#2" part-of-speech="Pi"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s----a--i">
             <slot2 form="Zi" n="2"/>
@@ -39635,6 +39786,9 @@
         </distribution>
         <homographs>
           <homograph lemma="zi#2" part-of-speech="G-"/>
+          <homograph lemma="zi" part-of-speech="C-"/>
+          <homograph lemma="zi#1" part-of-speech="Pi"/>
+          <homograph lemma="zi" part-of-speech="G-"/>
           <homograph lemma="zi#2" part-of-speech="Pi"/>
         </homographs>
         <paradigm>
@@ -39649,6 +39803,9 @@
           <source idref="armenian-nt" n="98"/>
         </distribution>
         <homographs>
+          <homograph lemma="zi" part-of-speech="C-"/>
+          <homograph lemma="zi#1" part-of-speech="Pi"/>
+          <homograph lemma="zi" part-of-speech="G-"/>
           <homograph lemma="zi#2" part-of-speech="C-"/>
           <homograph lemma="zi#2" part-of-speech="Pi"/>
         </homographs>
@@ -39665,6 +39822,9 @@
         </distribution>
         <homographs>
           <homograph lemma="zi#2" part-of-speech="G-"/>
+          <homograph lemma="zi" part-of-speech="C-"/>
+          <homograph lemma="zi#1" part-of-speech="Pi"/>
+          <homograph lemma="zi" part-of-speech="G-"/>
           <homograph lemma="zi#2" part-of-speech="C-"/>
         </homographs>
         <paradigm>
@@ -39678,7 +39838,11 @@
           <source idref="armenian-nt" n="36"/>
         </distribution>
         <homographs>
+          <homograph lemma="zi#2" part-of-speech="G-"/>
+          <homograph lemma="zi#1" part-of-speech="Pi"/>
           <homograph lemma="zi" part-of-speech="G-"/>
+          <homograph lemma="zi#2" part-of-speech="C-"/>
+          <homograph lemma="zi#2" part-of-speech="Pi"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">
@@ -39692,7 +39856,11 @@
           <source idref="armenian-nt" n="82"/>
         </distribution>
         <homographs>
+          <homograph lemma="zi#2" part-of-speech="G-"/>
           <homograph lemma="zi" part-of-speech="C-"/>
+          <homograph lemma="zi#1" part-of-speech="Pi"/>
+          <homograph lemma="zi#2" part-of-speech="C-"/>
+          <homograph lemma="zi#2" part-of-speech="Pi"/>
         </homographs>
         <paradigm>
           <slot1 morphology="---------n">

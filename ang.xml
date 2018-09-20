@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-03-03T22:51:00+00:00" schema-version="3.0">
+<proiel export-time="2018-09-20T17:20:16+01:00" schema-version="3.0">
   <dictionary language="ang">
     <sources>
       <source idref="apt" license="CC BY-NC-SA 3.0"/>
@@ -35748,6 +35748,11 @@
           <source idref="apt" n="5"/>
           <source idref="wscp" n="7"/>
         </distribution>
+        <homographs>
+          <homograph lemma="hwæt" part-of-speech="I-"/>
+          <homograph lemma="hwæt" part-of-speech="Pi"/>
+          <homograph lemma="hwæt" part-of-speech="Py"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---na--i">
             <slot2 form="hwæt" n="12"/>
@@ -35761,6 +35766,7 @@
         </distribution>
         <homographs>
           <homograph lemma="hwæt" part-of-speech="Pi"/>
+          <homograph lemma="hwæt#2" part-of-speech="Px"/>
           <homograph lemma="hwæt" part-of-speech="Py"/>
         </homographs>
         <paradigm>
@@ -35778,6 +35784,7 @@
         </distribution>
         <homographs>
           <homograph lemma="hwæt" part-of-speech="I-"/>
+          <homograph lemma="hwæt#2" part-of-speech="Px"/>
           <homograph lemma="hwæt" part-of-speech="Py"/>
         </homographs>
         <paradigm>
@@ -35811,6 +35818,7 @@
         <homographs>
           <homograph lemma="hwæt" part-of-speech="I-"/>
           <homograph lemma="hwæt" part-of-speech="Pi"/>
+          <homograph lemma="hwæt#2" part-of-speech="Px"/>
         </homographs>
         <paradigm>
           <slot1 morphology="-s---nazsi">

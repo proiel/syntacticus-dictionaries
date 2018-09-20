@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2018-09-16T15:14:42+01:00" schema-version="3.0">
+<proiel export-time="2018-09-20T17:19:36+01:00" schema-version="3.0">
   <dictionary language="got">
     <sources>
       <source idref="gothic-nt" license="CC BY-NC-SA 4.0"/>
@@ -27775,6 +27775,9 @@
         <distribution>
           <source idref="gothic-nt" n="4"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ga-kunnan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-sppamn-si">
             <slot2 form="gakunnands" n="1"/>
@@ -27821,6 +27824,9 @@
         <distribution>
           <source idref="gothic-nt" n="7"/>
         </distribution>
+        <homographs>
+          <homograph lemma="ga-kunnan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-prppmn-si">
             <slot2 form="gakunnaidai" n="1"/>
@@ -44346,6 +44352,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="hāhan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="2spia----i">
             <slot2 form="hahis" n="1"/>
@@ -44366,6 +44375,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="hāhan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="3suia----i">
             <slot2 form="hahaida" n="1"/>
@@ -46504,6 +46516,9 @@
         <distribution>
           <source idref="gothic-nt" n="2"/>
         </distribution>
+        <homographs>
+          <homograph lemma="Iohanna#2" part-of-speech="Ne"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---mg--i">
             <slot2 form="Iohannins" n="2"/>
@@ -46514,6 +46529,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="Iohanna#1" part-of-speech="Ne"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---fn--i">
             <slot2 form="Iohanna" n="1"/>
@@ -48944,6 +48962,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="Kwreinaius#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---md--i">
             <slot2 form="Kwreinaiau" n="1"/>
@@ -48954,6 +48975,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="Kwreinaius#1" part-of-speech="Ne"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---ma--i">
             <slot2 form="Kwreinaiu" n="1"/>
@@ -51119,6 +51143,9 @@
         <distribution>
           <source idref="gothic-nt" n="19"/>
         </distribution>
+        <homographs>
+          <homograph lemma="liugan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="liugan" n="3"/>
@@ -51204,6 +51231,9 @@
         <distribution>
           <source idref="gothic-nt" n="5"/>
         </distribution>
+        <homographs>
+          <homograph lemma="liugan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="1spia----i">
             <slot2 form="liuga" n="4"/>
@@ -52616,6 +52646,9 @@
         <distribution>
           <source idref="gothic-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="manna#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="manna" n="3"/>
@@ -52626,6 +52659,9 @@
         <distribution>
           <source idref="gothic-nt" n="297"/>
         </distribution>
+        <homographs>
+          <homograph lemma="manna#1" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-p---ma--i">
             <slot2 form="mannans" n="2"/>
@@ -55632,6 +55668,9 @@
         <distribution>
           <source idref="gothic-nt" n="16"/>
         </distribution>
+        <homographs>
+          <homograph lemma="munan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-pppama-wi">
             <slot2 form="munandans" n="1"/>
@@ -55757,6 +55796,9 @@
         <distribution>
           <source idref="gothic-nt" n="5"/>
         </distribution>
+        <homographs>
+          <homograph lemma="munan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="2spia----i">
             <slot2 form="munais" n="1"/>
@@ -56663,6 +56705,10 @@
         <distribution>
           <source idref="gothic-nt" n="28"/>
         </distribution>
+        <homographs>
+          <homograph lemma="nibai" part-of-speech="G-"/>
+          <homograph lemma="nibai#2" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="niba" n="23"/>
@@ -56674,6 +56720,10 @@
         <distribution>
           <source idref="gothic-nt" n="2"/>
         </distribution>
+        <homographs>
+          <homograph lemma="nibai" part-of-speech="G-"/>
+          <homograph lemma="nibai#1" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="nibai" n="2"/>
@@ -56684,6 +56734,10 @@
         <distribution>
           <source idref="gothic-nt" n="23"/>
         </distribution>
+        <homographs>
+          <homograph lemma="nibai#1" part-of-speech="Df"/>
+          <homograph lemma="nibai#2" part-of-speech="Df"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="---------n">
             <slot2 form="niba" n="16"/>
@@ -62998,6 +63052,9 @@
         <distribution>
           <source idref="gothic-nt" n="6"/>
         </distribution>
+        <homographs>
+          <homograph lemma="saljan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="saljan" n="2"/>
@@ -63068,6 +63125,9 @@
         <distribution>
           <source idref="gothic-nt" n="9"/>
         </distribution>
+        <homographs>
+          <homograph lemma="saljan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="saljan" n="2"/>
@@ -67289,6 +67349,9 @@
         <distribution>
           <source idref="gothic-nt" n="20"/>
         </distribution>
+        <homographs>
+          <homograph lemma="staua#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---fa--i">
             <slot2 form="staua" n="7"/>
@@ -67308,6 +67371,9 @@
         <distribution>
           <source idref="gothic-nt" n="5"/>
         </distribution>
+        <homographs>
+          <homograph lemma="staua#1" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---md--i">
             <slot2 form="stauin" n="1"/>
@@ -75174,6 +75240,9 @@
         <distribution>
           <source idref="gothic-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="urruns#2" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---md--i">
             <slot2 form="urrunsa" n="2"/>
@@ -75187,6 +75256,9 @@
         <distribution>
           <source idref="gothic-nt" n="1"/>
         </distribution>
+        <homographs>
+          <homograph lemma="urruns#1" part-of-speech="Nb"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-s---fa--i">
             <slot2 form="urruns" n="1"/>
@@ -82676,6 +82748,9 @@
         <distribution>
           <source idref="gothic-nt" n="2"/>
         </distribution>
+        <homographs>
+          <homograph lemma="weihan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="weihan" n="1"/>
@@ -82706,6 +82781,9 @@
         <distribution>
           <source idref="gothic-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="weihan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="-srppfn-si">
             <slot2 form="weihaida" n="1"/>
@@ -84074,6 +84152,10 @@
         <distribution>
           <source idref="gothic-nt" n="1562"/>
         </distribution>
+        <homographs>
+          <homograph lemma="wisan#3" part-of-speech="V-"/>
+          <homograph lemma="wisan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="wisan" n="54"/>
@@ -86443,6 +86525,10 @@
         <distribution>
           <source idref="gothic-nt" n="3"/>
         </distribution>
+        <homographs>
+          <homograph lemma="wisan#1" part-of-speech="V-"/>
+          <homograph lemma="wisan#3" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="wisan" n="2"/>
@@ -86467,6 +86553,10 @@
         <distribution>
           <source idref="gothic-nt" n="25"/>
         </distribution>
+        <homographs>
+          <homograph lemma="wisan#1" part-of-speech="V-"/>
+          <homograph lemma="wisan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="wisan" n="1"/>
@@ -86610,6 +86700,9 @@
         <distribution>
           <source idref="gothic-nt" n="129"/>
         </distribution>
+        <homographs>
+          <homograph lemma="witan#2" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="witan" n="3"/>
@@ -86958,6 +87051,9 @@
         <distribution>
           <source idref="gothic-nt" n="11"/>
         </distribution>
+        <homographs>
+          <homograph lemma="witan#1" part-of-speech="V-"/>
+        </homographs>
         <paradigm>
           <slot1 morphology="--pna----i">
             <slot2 form="witan" n="1"/>
